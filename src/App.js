@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Nice.
+          Welcome to my Personal Portfolio Website! <br/>
+          This Website is Currently a Work in Progress.
         </p>
         <a
           className="App-link"
@@ -15,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          I am Learning React
         </a>
       </header>
     </div>
