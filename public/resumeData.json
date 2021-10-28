@@ -1,0 +1,188 @@
+{
+  "main": {
+    "name": "Samer Khatib",
+    "occupation": "Software Engineer",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "skhatib07@outlook.com",
+    "phone": "(630) 649-9306",
+    "address": {
+      "street": "3664 Southwest 24th Avenue",
+      "city": "Gainesville",
+      "state": "Florida",
+      "zip": "32607"
+    },
+    "website": "https://samerkhatib.com/",
+    "resumedownload": "https://docs.google.com/gview?url=https://github.com/skhatib07/resume/raw/main/khatib_samer_resume.pdf&embedded=true",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/skhatib07/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/samer_m_khatib",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/samer-khatib-47287517b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/skhatib07/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/skhatib07",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Florida",
+        "degree": "Bachelors in Computer Engineering",
+        "graduated": "May 2023",
+        "description": "Double Minor in Biomolecular Engineering and Business Administration. I am truly enjoying the wide variety of material I am learning at the University of Florida. I am excited to continue to grow as a student as well as a Software Engineer."
+      }
+    ],
+    "work": [
+      {
+        "company": "DigiConnect LLC.",
+        "title": "Software Engineering Intern",
+        "years": "May 2021 - August 2021",
+        "description": "Launched native third-party client application for several social networking sites using Swift (iOS) & Java (Android). Migrated native application code base into a shared language (Dart) using Google’s Flutter Software Development Kit. Overhauled Website UI using React for graphical adjustments with a data pipeline built on Apache Spark & Firebase."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript/TypeScript",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS3",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Dart",
+        "level": "85%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "Flutter",
+        "level": "85%"
+      },
+      {
+        "name": "AngularJS",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "95%"
+      },
+      {
+        "name": "Docker",
+        "level": "70%"
+      },
+      {
+        "name": "Amazon Web Services (AWS)",
+        "level": "80%"
+      },
+      {
+        "name": "Swift",
+        "level": "70%"
+      },
+      {
+        "name": "Apache Spark",
+        "level": "60%"
+      },
+      {
+        "name": "Firebase",
+        "level": "60%"
+      },
+      {
+        "name": "MySQL & SQLite",
+        "level": "60%"
+      },
+      {
+        "name": "Node.js",
+        "level": "70%"
+      },
+      {
+        "name": "Keras",
+        "level": "70%"
+      },
+      {
+        "name": "Pytorch",
+        "level": "80%"
+      },
+      {
+        "name": "Tensorflow",
+        "level": "80%"
+      },
+      {
+        "name": "Scikit-learn",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "VaccinApp - COVID-19 Vaccine Locator",
+        "category": "(offline) Personal Project to locate nearest vaccine location to ",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://github.com/skhatib07/Vaccinapp"
+      },
+      {
+        "title": "YOLO-ALPR - Automatic License Plate Detection & Recognition",
+        "category": "(WIP) A lightweight license plate detection system",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Myoelectrics - Natural Robotic Hand & Actuation",
+        "category": "Research Project on the development of an ultra low-cost myoelectric prosthetic",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Personal Portfolio Website",
+        "category": "A React based resume website I developed. You're looking at it right now!",
+        "image": "resume-website.jpg",
+        "url": "https://samerkhatib.com/"
+      }
+    ]
+  }
+}
