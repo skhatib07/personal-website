@@ -2,7 +2,6 @@
   "main": {
     "name": "Samer Khatib",
     "occupation": "Software Engineer",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -45,7 +44,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here are some of my favorite Software Programs & Libraries",
     "education": [
       {
         "school": "University of Florida",
@@ -64,96 +63,45 @@
     ],
     "skills": [
       {
-        "name": "JavaScript/TypeScript",
-        "level": "80%"
-      },
-      {
-        "name": "Python",
-        "level": "90%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS3",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "Dart",
-        "level": "85%"
+        "name": "Git",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image": "git.jpg"
       },
       {
         "name": "Java",
-        "level": "80%"
+        "description": "Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image": "java.jpg"
       },
       {
-        "name": "C++",
-        "level": "90%"
+        "name": "React JS",
+        "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image": "react.jpg"
       },
       {
         "name": "Flutter",
-        "level": "85%"
+        "description": "I enjoy MeteorJS for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used MeteorJS in a team for a Startup Programming class in UVIC in conjunction with React to build the MVP for Smirkspace (below in portfolio)",
+        "image": "flutter.jpg"
+      },
+
+      {
+        "name": "C++",
+        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "image": "c++.jpg"
       },
       {
-        "name": "AngularJS",
-        "level": "80%"
+        "name": "Python",
+        "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image": "python.jpg"
       },
       {
-        "name": "ReactJS",
-        "level": "80%"
-      },
-      {
-        "name": "Git",
-        "level": "95%"
-      },
-      {
-        "name": "Docker",
-        "level": "70%"
-      },
-      {
-        "name": "Amazon Web Services (AWS)",
-        "level": "80%"
-      },
-      {
-        "name": "Swift",
-        "level": "70%"
-      },
-      {
-        "name": "Apache Spark",
-        "level": "60%"
-      },
-      {
-        "name": "Firebase",
-        "level": "60%"
-      },
-      {
-        "name": "MySQL & SQLite",
-        "level": "60%"
-      },
-      {
-        "name": "Node.js",
-        "level": "70%"
-      },
-      {
-        "name": "Keras",
-        "level": "70%"
+        "name": "Amazon Web Services",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "aws.jpg"
       },
       {
         "name": "Pytorch",
-        "level": "80%"
-      },
-      {
-        "name": "Tensorflow",
-        "level": "80%"
-      },
-      {
-        "name": "Scikit-learn",
-        "level": "70%"
+        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image": "pytorch.jpg"
       }
     ]
   },
@@ -161,7 +109,7 @@
     "projects": [
       {
         "title": "VaccinApp - COVID-19 Vaccine Locator",
-        "category": "(offline) Personal Project to locate nearest vaccine location to ",
+        "category": "(offline) Command-line based Personal Project to locate nearest vaccine location to user",
         "image": "canadian-wanderlust.jpg",
         "url": "https://github.com/skhatib07/Vaccinapp"
       },
