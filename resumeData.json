@@ -90,17 +90,17 @@
       },
       {
         "name": "Python",
-        "description": "Python was one of the more recent languages that I learned in my Software Engineering journey. I learning it primarily for it's machine learning/artificial intelligence capabilities but I continue to use it due to it's potential future applications as the language becomes more relevant.",
+        "description": "Python was one of the more recent languages that I learned in my Software Engineering journey. I learned it primarily for its machine learning/artificial intelligence capabilities but I continue to use it due to it's potential future applications as the language becomes more relevant.",
         "image": "python.jpg"
       },
       {
         "name": "Amazon Web Services",
-        "description": "I only recently started using Amazon Web Services for my projects, and I can't imagine how I operated without it. It's database & virtual machine capabilites are ones that I see myself frequently using in the future for in all my projects.",
+        "description": "I only recently started using Amazon Web Services for my projects, and I can't imagine how I operated without it. Its database & virtual machine capabilites are ones that I see myself frequently using in the future for in all my projects.",
         "image": "aws.jpg"
       },
       {
         "name": "Pytorch",
-        "description": "Pytorch is the main library that I use for machine learning. I really enjoy the easability of use Pytorch offers it's users as well as the ability to view the training processes in real time. I have most recently used Pytorch in my YOLO-ALPR project, which you can see the source code for below!",
+        "description": "Pytorch is the main library that I use for machine learning. I really enjoy the easability of use Pytorch offers its users as well as the ability to view the training processes in real time. I have most recently used Pytorch in my YOLO-ALPR project, which you can see the source code for below!",
         "image": "pytorch.jpg"
       }
     ]
