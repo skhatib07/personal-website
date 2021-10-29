@@ -3,12 +3,12 @@
     "name": "Samer Khatib",
     "occupation": "Software Engineer",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio": "I am a scientist at heart, with an apt knack for coming up with a unique solution to every problem I face. I use my love for science and passion for software engineering to code a resolution to every inconvenience I come across. Currently, I am researching ways that I can extend my skills into a Software Engineering role in a tech or business field. Outside of my projects and school, I love to play volleyball or Pokemon Unite with my friends. I'm also an avid fan of Aviation and NCAA Wrestling. I'm always open to having a discussion about the most recent tournament or the latest trend in the airline industry. Feel free to send me an email and start the conversation!",
+    "contactmessage": "Send me a message!",
     "email": "skhatib07@outlook.com",
     "phone": "(630) 649-9306",
     "address": {
-      "street": "3664 Southwest 24th Avenue",
+      "street": "3664 Southwest 24th Avenue, Unit 202",
       "city": "Gainesville",
       "state": "Florida",
       "zip": "32607"
@@ -50,7 +50,7 @@
         "school": "University of Florida",
         "degree": "Bachelors in Computer Engineering",
         "graduated": "May 2023",
-        "description": "Double Minor in Biomolecular Engineering and Business Administration. I am truly enjoying the wide variety of material I am learning at the University of Florida. I am excited to continue to grow as a student as well as a Software Engineer."
+        "description": "Double Minor in Biomolecular Engineering and Business Administration. I am truly enjoying the wide variety of material I am learning at the University of Florida. I am excited to continue to grow as a student as I continue through my coursework towards my degrees."
       }
     ],
     "work": [
@@ -64,43 +64,43 @@
     "skills": [
       {
         "name": "Git",
-        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "description": "Git version control was one of the first programs I learned when I started coding. Nowadays, I use git for every one of my projects and have utilized it to contribute to several Open Sourced Projects.",
         "image": "git.jpg"
       },
       {
         "name": "Java",
-        "description": "Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "description": "Java was my first programming language that I learned in AP Computer Science my Senior year of High School. I learned as much of the language as I could and utilized it for my first personal project. The source code is available below!",
         "image": "java.jpg"
       },
       {
         "name": "React JS",
-        "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "description": "I am fairly new to React and it took me awhile to understand the dynamics of the language. It grew on me quickly though for it's flexibility and I'm excited to continue using it for my future projects. This website is built using React!",
         "image": "react.jpg"
       },
       {
         "name": "Flutter",
-        "description": "I enjoy MeteorJS for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used MeteorJS in a team for a Startup Programming class in UVIC in conjunction with React to build the MVP for Smirkspace (below in portfolio)",
+        "description": "Flutter was one of the most recent languages I learned. Even though it was difficult to understand the widget-based language, I quickly fell in love with the cross-platform capabilities offered by the language and look forward to continue using it.",
         "image": "flutter.jpg"
       },
 
       {
         "name": "C++",
-        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "description": "I learned C++ as my second main programming language in my first year of college at the University of Florida. I utilized C++ as a catalyst for learning Data Structures and Algorithms and I continue to value the language for it's low-level architecture and quick compilation times.",
         "image": "c++.jpg"
       },
       {
         "name": "Python",
-        "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "description": "Python was one of the more recent languages that I learned in my Software Engineering journey. I learning it primarily for it's machine learning/artificial intelligence capabilities but I continue to use it due to it's potential future applications as the language becomes more relevant.",
         "image": "python.jpg"
       },
       {
         "name": "Amazon Web Services",
-        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "description": "I only recently started using Amazon Web Services for my projects, and I can't imagine how I operated without it. It's database & virtual machine capabilites are ones that I see myself frequently using in the future for in all my projects.",
         "image": "aws.jpg"
       },
       {
         "name": "Pytorch",
-        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "description": "Pytorch is the main library that I use for machine learning. I really enjoy the easability of use Pytorch offers it's users as well as the ability to view the training processes in real time. I have most recently used Pytorch in my YOLO-ALPR project, which you can see the source code for below!",
         "image": "pytorch.jpg"
       }
     ]
@@ -110,20 +110,20 @@
       {
         "title": "VaccinApp - COVID-19 Vaccine Locator",
         "category": "(offline) Command-line based Personal Project to locate nearest vaccine location to user",
-        "image": "canadian-wanderlust.jpg",
+        "image": "vaccinApp.jpg",
         "url": "https://github.com/skhatib07/Vaccinapp"
       },
       {
         "title": "YOLO-ALPR - Automatic License Plate Detection & Recognition",
         "category": "(WIP) A lightweight license plate detection system",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "image": "yoloALPR.jpg",
+        "url": "https://github.com/mmhobi7/LPS"
       },
       {
         "title": "Myoelectrics - Natural Robotic Hand & Actuation",
         "category": "Research Project on the development of an ultra low-cost myoelectric prosthetic",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "image": "myo.jpg",
+        "url": "https://gitlab.com/skhatib/myoelectrics"
       },
       {
         "title": "Personal Portfolio Website",
