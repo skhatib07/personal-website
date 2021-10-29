@@ -1,4 +1,4 @@
-#My Personal Website
+# My Personal Website
 This is the source code for my personal website available at: https://samerkhatib.com/
 This project was done in ReactJS. Stock photos taken from the University of Florida - University Relations Media Library.
 View my resume at:
