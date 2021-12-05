@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import ReactGA from 'react-ga';
 import $ from "jquery";
 import "./App.css";
 import Header from "./Components/Header";
@@ -6,7 +7,6 @@ import Footer from "./Components/Footer";
 import About from "./Components/About";
 import Resume from "./Components/Resume";
 import Portfolio from "./Components/Portfolio";
-import ReactGA from 'react-ga';
 
 class App extends Component {
   constructor(props) {
@@ -14,10 +14,8 @@ class App extends Component {
     this.state = {
       resumeData: {},
     };
-    const TRACKING_ID = "UA-197157828-1";
-    ReactGA.initialize(TRACKING_ID);
+    ReactGA.initialize('UA-197157828-1');
     ReactGA.pageview(window.location.pathname + window.location.search);
-
   }
 
   getResumeData() {
