@@ -48,12 +48,18 @@
     "education": [
       {
         "school": "University of Florida",
-        "degree": "Bachelors in Computer Engineering",
-        "graduated": "May 2023",
-        "description": "Double Minor in Biomolecular Engineering and Business Administration. I am truly enjoying the wide variety of material I am learning at the University of Florida. I am excited to continue to grow as a student as I continue through my coursework towards my degrees."
+        "degree": "Bachelors in Computer Engineering & Finance",
+        "graduated": "May 2024",
+        "description": "Double Major in Computer Engineering and FInance. I have taken a keen interest in the Financial Technology side of the Software Engineering industry, and I am truly enjoying the wide variety of material I am learning at the University of Florida. I am excited to continue to mature as a student as I continue through my coursework towards my degrees."
       }
     ],
     "work": [
+          {
+        "company": "Cisco Meraki",
+        "title": "Full Stack Software Engineering Intern",
+        "years": "May 2022 - August 2022",
+        "description": "Created an internal command-line tool in Go to access the Meraki Dashboard & execute CRUD operations on user-managed organizations, networks, & devices. Developed a Go Package to format the output of the command-line tool to optionally output in an ASCII Tabular format or serialized JSON. Designed & Built a Hashicorp Terraform Provider to access the Meraki Dashboard using the Terraform Plugin Framework to simplify the deployment of vMX Devices"
+      },
       {
         "company": "DigiConnect LLC.",
         "title": "Software Engineering Intern",
