@@ -3,15 +3,15 @@
     "name": "Samer Khatib",
     "occupation": "Software Engineer",
     "image": "profilepic.jpg",
-    "bio": "I am a scientist at heart, with an apt knack for coming up with a unique solution to every problem I face. I use my love for science and passion for software engineering to code a resolution to every inconvenience I come across. Currently, I am researching ways that I can extend my skills into a Software Engineering role in a tech or business field. Outside of my projects and school, I love to play volleyball or Pokemon Unite with my friends. I'm also an avid fan of Aviation and NCAA Wrestling. I'm always open to having a discussion about the most recent tournament or the latest trend in the airline industry. Feel free to send me an email and start the conversation!",
+    "bio": "I am a scientist at heart, with an apt knack for coming up with a unique solution to every problem I face. My passion for software engineering allows me to translate this love for problem-solving into code, solving inconveniences with novel ideas. Currently, I am researching ways that I can extend my skills into a Software Engineering role in a tech or business field. Outside of my projects and school, I am also an avid fan of Aviation and NCAA Wrestling. Whether it's discussing the latest tournament or trends in the airline industry, I'm always open to engaging in meaningful conversations. Feel free to drop me an email and kick-start the dialogue!",
     "contactmessage": "Send me a message!",
     "email": "skhatib07@outlook.com",
     "phone": "(630) 649-9306",
     "address": {
-      "street": "3664 Southwest 24th Avenue, Unit 202",
+      "street": "950 NW 7th Lane",
       "city": "Gainesville",
       "state": "Florida",
-      "zip": "32607"
+      "zip": "32601"
     },
     "website": "https://samerkhatib.com/",
     "resumedownload": "https://docs.google.com/gview?url=https://github.com/skhatib07/resume/raw/main/khatib_samer_resume.pdf&embedded=true",
@@ -48,65 +48,65 @@
     "education": [
       {
         "school": "University of Florida",
-        "degree": "Bachelors in Computer Engineering & Finance",
-        "graduated": "May 2024",
-        "description": "Double Major in Computer Engineering and FInance. I have taken a keen interest in the Financial Technology side of the Software Engineering industry, and I am truly enjoying the wide variety of material I am learning at the University of Florida. I am excited to continue to mature as a student as I continue through my coursework towards my degrees."
+        "degree": "Bachelors in Computer Engineering",
+        "graduated": "December 2024",
+        "description": "Major in Computer Engineering with a focused specialization in AI and Algorithms. I have taken a keen interest in the Financial Technology side of the Software Engineering industry, and I am truly enjoying the wide variety of material I am learning at the University of Florida. I am excited to see how the skills I have earned through my specialties can be applied to the Fintech Industry."
       }
     ],
     "work": [
           {
         "company": "Cisco Meraki",
         "title": "Full Stack Software Engineering Intern",
-        "years": "May 2022 - August 2022",
-        "description": "Created an internal command-line tool in Go to access the Meraki Dashboard & execute CRUD operations on user-managed organizations, networks, & devices. Developed a Go Package to format the output of the command-line tool to optionally output in an ASCII Tabular format or serialized JSON. Designed & Built a Hashicorp Terraform Provider to access the Meraki Dashboard using the Terraform Plugin Framework to simplify the deployment of vMX Devices"
+        "years": "June - August 2023 & May - August 2022",
+        "description": "I played a key role in enhancing system capabilities. I implemented a new API endpoint in Ruby on Rails, facilitating the download of binary device blobs and configuration of device characteristics for a Wireless Access Point. This involved transforming rows from a PostgreSQL database into a versatile Comma Separated Value (CSV) format. Additionally, I developed a Go Package to refine the output of a command-line tool, providing the flexibility to display results in either ASCII Tabular or serialized JSON format. I also undertook the design and construction of a HashiCorp Terraform Provider. This allowed seamless access to the Meraki Dashboard through the Terraform Plugin Framework, streamlining the deployment process for vMX Devices. These internships greatly sharpened my skills in software engineering, and given me valuable insights into entering an unknown space and conquering difficult problems with a solution-oriented mindset."
       },
       {
         "company": "DigiConnect LLC.",
         "title": "Software Engineering Intern",
         "years": "May 2021 - August 2021",
-        "description": "Launched native third-party client application for several social networking sites using Swift (iOS) & Java (Android). Migrated native application code base into a shared language (Dart) using Google’s Flutter Software Development Kit. Overhauled Website UI using React for graphical adjustments with a data pipeline built on Apache Spark & Firebase."
+        "description": "I successfully launched a native third-party client application for a social advocacy website, leveraging Swift for iOS and Java for Android development. With the goal of increasing codebase efficiency, I orchestrated the migration of the native application codebase to a shared language, Dart, utilizing Google's Flutter Software Development Kit. Additionally, I led a comprehensive overhaul of the website's user interface, using React JS for its graphical enhancements. I cleaned up the complicated data pipeline, and simplified it by using Apache Spark for load management and Firebase for authentication. These experiences not only enriched my technical skills, but also contributed to creating innovative and user-friendly solutions for consumer-facing products under strict time requirements."
       }
     ],
     "skills": [
       {
         "name": "Git",
-        "description": "Git version control was one of the first programs I learned when I started coding. Nowadays, I use git for every one of my projects and have utilized it to contribute to several Open Sourced Projects.",
+        "description": "Mastering Git version control was among my initial milestones as a software engineer. Today, Git remains an indispensable part of my development toolkit, seamlessly integrated into every project. I've harnessed the power of Git not only for managing my personal repositories but also as a collaborative force in contributing to diverse Open Source Projects. It's not just a version control system for me; it's a dynamic tool that empowers collaboration and drives the success of my coding ventures.",
         "image": "git.jpg"
       },
       {
         "name": "Java",
-        "description": "Java was my first programming language that I learned in AP Computer Science my Senior year of High School. I learned as much of the language as I could and utilized it for my first personal project. The source code is available below!",
+        "description": "Embarking on my coding journey in AP Computer Science during my Senior year of High School, Java became my inaugural programming language. I immersed myself in learning the intricacies of Java, eager to grasp its foundations. Swiftly applying my newfound skills, I undertook my maiden personal project, a testament to my commitment to continuous learning. Delve into the source code of this project, a reflection of my early passion and proficiency in Java, below!",
         "image": "java.jpg"
       },
       {
         "name": "React JS",
-        "description": "I am fairly new to React and it took me awhile to understand the dynamics of the language. It grew on me quickly though for it's flexibility and I'm excited to continue using it for my future projects. This website is built using React!",
+        "description": "My journey to unravel the complexites of React JS has been my primary focus in recent months, investing considerable time to comprehend the language's dynamics. Gradually, React won me over with its remarkable flexibility, igniting my enthusiasm for its potential. Eager to embrace the learning curve, I look forward to leveraging React in my upcoming projects. Notably, this very website stands as a testament to my evolving proficiency in React, showcasing its capabilities in action!",
         "image": "react.jpg"
       },
       {
         "name": "Flutter",
-        "description": "Flutter was one of the most recent languages I learned. Even though it was difficult to understand the widget-based language, I quickly fell in love with the cross-platform capabilities offered by the language and look forward to continue using it.",
+        "description": "Exploring Flutter marked a pivotal point in my coding journey. Overcoming initial challenges, I embraced its widget-based architecture, captivated by its cross-platform prowess. Navigating the intricacies, I found joy in crafting seamless, responsive apps. Flutter's single-codebase magic resonated with me, streamlining development. Proficient now, I'm excited to wield Flutter's power in diverse projects, optimizing UI/UX and exploring innovative design patterns. I look forward to contributing to the vibrant community of Flutter developers.",
         "image": "flutter.jpg"
       },
 
       {
         "name": "C++",
-        "description": "I learned C++ as my second main programming language in my first year of college at the University of Florida. I utilized C++ as a catalyst for learning Data Structures and Algorithms and I continue to value the language for it's low-level architecture and quick compilation times.",
+        "description": "C++ emerged as my second programming language during my inaugural year at the University of Florida, becoming a cornerstone in my academic journey. I harnessed its power to delve into the realms of Data Structures and Algorithms, unlocking a deeper understanding of software craftsmanship. C++'s low-level architecture and swift compilation times became invaluable companions, empowering me to develop efficient, high-performance solutions. Today, I carry forward the insights gained, cherishing C++ as a versatile tool that combines elegance with efficiency in the ever-evolving landscape of programming.",
         "image": "c++.jpg"
       },
       {
         "name": "Python",
-        "description": "Python was one of the more recent languages that I learned in my Software Engineering journey. I learned it primarily for its machine learning/artificial intelligence capabilities but I continue to use it due to it's potential future applications as the language becomes more relevant.",
+        "description": "Python, a pivotal addition to my Software Engineering odyssey, entered my toolkit as one of the more recent languages I embraced. Initially drawn by its prowess in machine learning and artificial intelligence, Python has evolved into a steadfast companion in my coding endeavors. Beyond its immediate applications, I am captivated by Python's expanding relevance, envisioning its continued role in shaping the future of software development. This multifaceted language has not only enriched my skill set but also opened doors to a spectrum of possibilities that I eagerly explore and integrate into my projects.",
         "image": "python.jpg"
       },
       {
         "name": "Amazon Web Services",
-        "description": "I only recently started using Amazon Web Services for my projects, and I can't imagine how I operated without it. Its database & virtual machine capabilites are ones that I see myself frequently using in the future for in all my projects.",
+        "description": "Embracing Amazon Web Services (AWS) has been a transformative experience in my project journey. The impact of integrating AWS into my workflow has been profound, revolutionizing the way I approach and execute projects. The robust capabilities of AWS, particularly in databases and virtual machines, have become indispensable tools that I now rely on extensively. As I navigate the vast landscape of cloud services, AWS stands out as a cornerstone, and I anticipate its pervasive role in shaping the architecture of my future projects.",
         "image": "aws.jpg"
       },
       {
         "name": "Pytorch",
-        "description": "Pytorch is the main library that I use for machine learning. I really enjoy the easability of use Pytorch offers its users as well as the ability to view the training processes in real time. I have most recently used Pytorch in my YOLO-ALPR project, which you can see the source code for below!",
+        "description": "PyTorch has emerged as the linchpin of my machine learning endeavors, serving as the cornerstone for my exploration into this dynamic field. The intuitive design of PyTorch has not only simplified the complexities of machine learning but has also provided a real-time lens into the training processes, offering a unique and insightful experience. In a recent undertaking – the YOLO-ALPR project – PyTorch's capabilities shone brightly, powering the project's success. Dive into the source code below to witness firsthand the synergy between PyTorch and cutting-edge machine learning projects.",
         "image": "pytorch.jpg"
       }
     ]
