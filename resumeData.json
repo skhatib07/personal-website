@@ -28,7 +28,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/samer-khatib-47287517b/",
+        "url": "https://www.linkedin.com/in/samer-khatib/",
         "className": "fa fa-linkedin"
       },
       {
@@ -49,16 +49,22 @@
       {
         "school": "University of Florida",
         "degree": "Bachelors in Computer Engineering",
-        "graduated": "December 2024",
-        "description": "Major in Computer Engineering with a focused specialization in AI and Algorithms. I have taken a keen interest in the Financial Technology side of the Software Engineering industry, and I am truly enjoying the wide variety of material I am learning at the University of Florida. I am excited to see how the skills I have earned through my specialties can be applied to the Fintech Industry."
+        "graduated": "May 2025",
+        "description": "Major in Computer Engineering with a focused specialization in Artificial Intelligence and Quantitative Research, engaging in hands-on projects involving Reconfigurable Computing to optimize Quantitative calculations. I have taken a deep academic interest in the Financial Technology side of the Engineering industry, and I am excited to see how the skills I have earned through my specialties can be translated to the Fintech Industry."
       }
     ],
     "work": [
           {
+            "company": "Chime Financial, Inc.",
+            "title": "Software Engineering Intern",
+            "years": "May 2024 - August 2024",
+            "description": "I made significant contributions to data analysis and backend optimization. One of my key projects involved designing and building a Statistical Power Calculator, an essential tool used to evaluate the statistical robustness of A/B tests and experiments. This solution was powered by an AWS Lambda Function, allowing for scalable, serverless execution. The core functionality of the calculator was implemented through a Python script that interfaced with a Snowflake Database, querying large datasets to calculate Statistical Power, Sample Size, Significance Level (alpha), and Expected Effect Size. By doing so, I helped streamline the process for data scientists and engineers to assess experiment designs and determine the necessary parameters for achieving statistically meaningful results. In another project, I focused on performance optimization of a Golang Program designed to handle API requests at scale. My primary goal was to enhance the speed and efficiency of the API endpoint by introducing multi-threaded computing techniques and improving the underlying algorithms. This allowed the application to better manage concurrent requests, significantly reducing response times while maintaining throughput. These projects strengthened my technical expertise in cloud computing and data analysis, allowing me to gain valuable insights into large-scale system architecture and performance tuning."
+          },
+          {
         "company": "Cisco Meraki",
         "title": "Full Stack Software Engineering Intern",
         "years": "June - August 2023 & May - August 2022",
-        "description": "I played a key role in enhancing system capabilities. I implemented a new API endpoint in Ruby on Rails, facilitating the download of binary device blobs and configuration of device characteristics for a Wireless Access Point. This involved transforming rows from a PostgreSQL database into a versatile Comma Separated Value (CSV) format. Additionally, I developed a Go Package to refine the output of a command-line tool, providing the flexibility to display results in either ASCII Tabular or serialized JSON format. I also undertook the design and construction of a HashiCorp Terraform Provider. This allowed seamless access to the Meraki Dashboard through the Terraform Plugin Framework, streamlining the deployment process for vMX Devices. These internships greatly sharpened my skills in software engineering, and given me valuable insights into entering an unknown space and conquering difficult problems with a solution-oriented mindset."
+        "description": "I played a key role in enhancing team system capabilities by implementing a new API endpoint in Ruby on Rails, facilitating the download of binary device blobs and configuration of device characteristics for a Wireless Access Point. This involved transforming rows from a PostgreSQL database into a versatile Comma Separated Value (CSV) format. Another task I worked on was the development of a Go Package to refine the output of a command-line tool, providing the flexibility to display results in either ASCII Tabular or serialized JSON format. This project eventually evolved into the design and construction of a HashiCorp Terraform Provider. The Terraform Provider allowed seamless access to the Meraki Dashboard through the Terraform Plugin Framework, streamlining the deployment process for vMX Devices for both Production and Development purposes. These two internships greatly sharpened my skills in software engineering, and given me valuable insights into entering an unknown space and conquering difficult problems with a solution-oriented mindset."
       },
       {
         "company": "DigiConnect LLC.",
